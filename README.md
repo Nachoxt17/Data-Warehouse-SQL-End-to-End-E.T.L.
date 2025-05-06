@@ -4,11 +4,11 @@ This project presents a complete data warehouse solution, integrating CRM and ER
 
 ## Project Features:
 
-✅ Data architecture and layer design (Bronze, Silver, Gold).  
-✅ SQL-based ETL pipelines: data extraction, transformation, loading.  
-✅ Integration of CRM and ERP data sources.  
-✅ Star schema and dimensional modeling.  
-✅ Tableau dashboard visualizations for business insights.
+💾 Data architecture and layer design (Bronze, Silver, Gold).  
+⚙️ SQL-based ETL pipelines: data extraction, transformation, loading.  
+🔗 Integration of CRM and ERP data sources.  
+📊 Star schema and dimensional modeling.  
+📈 Tableau dashboard visualizations for business insights.
 
 ## Technologies Used:
 
