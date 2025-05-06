@@ -12,10 +12,10 @@ This project presents a complete data warehouse solution, integrating CRM and ER
 
 ## Technologies Used:
 
-- SQL  
-- Data Warehouse concepts  
-- ETL design  
-- Tableau
+- SQL.  
+- Data Warehouse concepts.  
+- ETL design.  
+- Tableau.
 
 ## How to View:
 
